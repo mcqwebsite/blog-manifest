@@ -1,0 +1,20 @@
+{
+  "name": "MCQ App",
+  "short_name": "MCQ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEghDSOoMmabYqfugCyy_oEFgSUTIPTBelG8b8UbpgFLbWwuJTMVJrGQptThbF8ocMC_sneI-JdPp-1BWxXIa2kMHYFRrGZVFs3SDrDbHWxkgDTHWWNeiN8KJT0QSiu0eyidOglLwE1Jlz-wWK_z0yDb_xYqTYml_JekyOK0bTz8TYj6yTCHUuFYhhWywRI=s192", // Replace with your favicon URL
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh-I-YktKJOvI8t--4PvoSrKLVSPyJ7alL0dOlz2qyUg1_Ea0unzRjVb7gTWmoCKDvccniHLKlCn2hpLtCGW9FBYwM_QdExg2M78dbd18fMod9_dPAlzAwHrBmGG7wAYbDGunznakWwcnP8uISK7bLD1UDZQ_32qE4aE8i4Knq7rF1J11PHOrSImWBiXVs=s512", // Replace with your favicon URL
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
